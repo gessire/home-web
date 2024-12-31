@@ -1,0 +1,46 @@
+header .head{
+    display: flex;
+    justify-content: space-between;
+}
+#lugar{
+    padding-right: 60%;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1E3240;
+}
+.element{
+    font-size: 14px;
+    font-weight: 400;
+    color: #1E3240;
+}
+header{
+    background-color: #C3DAF2;
+}
+#h1{
+    width: 618px;
+    height: 666px;
+}
+#ti{
+    color: #1E3240;
+    font-size: 90px;
+    font-size: 700;
+}
+#de{
+    font-size: 18px;
+    font-weight: 400;
+    color: #1E3240;
+}
+#probut{
+    padding: 18px 24px 18px 24px;
+    background-color: #1E3240;
+    color: white;
+}
+#conbut{
+    padding: 18px 24px 18px 24px;
+    color: #1E3240;
+    border: 0.5px solid #1E3240;
+}
+.title{
+    display: flex;
+    
+}
