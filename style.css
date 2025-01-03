@@ -42,5 +42,12 @@ header{
 }
 .title{
     display: flex;
-    
+}
+.scnd{
+    display: flex;
+    padding:100px 165px 100px 165px;
+}
+#h2{
+    width: 500px;
+    height: 445px;
 }
